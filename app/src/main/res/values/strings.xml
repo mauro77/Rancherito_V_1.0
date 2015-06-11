@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> El Rancherito</string>
+
+
+    <string name="nuevo">Ver Lista</string>
+    <string name="ver">Ver en Mapa</string>
+    <string name="back">Volver</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="titulo">El Rancherito</string>
+    <string name="platos">Platos</string>
+    <string name="info">Restaurante de comida tradicional colombiana.En todos nuestros puntos de venta contamos con un variado y rico menú para atender desayuno, almuerzo y cena. Ofrecemos propuestas con precios especiales para grupos de turistas que quieran conocer la comida típica y representativa de nuestra ciudad.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>

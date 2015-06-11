@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Base"
+    >
+
+    <item android:id="@+id/ver"
+        android:title="@string/ver"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/atras"
+        android:title="@string/back"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+</menu>
